@@ -17,7 +17,10 @@ import android.widget.Toast;
 import android.widget.ViewFlipper;
 
 import java.util.ArrayList;
-
+/**
+ * Created by James on 24/03/2018.
+ * s1631711
+ */
 public class MainActivity extends AppCompatActivity {
 //burttons for view
     Button Button, Button1;
